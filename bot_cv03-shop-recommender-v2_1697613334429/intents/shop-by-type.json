@@ -1,0 +1,26 @@
+{
+  "name": "shop-by-type",
+  "utterances": {
+    "en": [
+      "# shop-by-type",
+      "I have a specific shop in mind.",
+      "Could you recommend me a shop?",
+      "Could you recommend me a bookshop?",
+      "Could you recommend me an electronics shop?",
+      "I am looking for a particular shop.",
+      "I am looking for a bookshop.",
+      "I am looking for an electronics shop.",
+      "What is your best bookshop?",
+      "What is your best electronics shop?",
+      "What bookshop can you recommend?",
+      "What electronics shop can you recommend?",
+      "I want to go to the shop.",
+      "I want to go to a bookshop.",
+      "I want to go to an electronics shop."
+    ]
+  },
+  "slots": [],
+  "contexts": [
+    "global"
+  ]
+}

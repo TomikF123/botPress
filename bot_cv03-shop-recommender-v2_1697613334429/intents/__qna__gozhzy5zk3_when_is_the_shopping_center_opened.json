@@ -1,0 +1,16 @@
+{
+  "name": "__qna__gozhzy5zk3_when_is_the_shopping_center_opened",
+  "entities": [],
+  "contexts": [
+    "global"
+  ],
+  "utterances": {
+    "en": [
+      "When is the shopping center opened?",
+      "What are the opening hours?",
+      "What are your opening hours?",
+      "Are you opened?"
+    ]
+  },
+  "slots": []
+}
