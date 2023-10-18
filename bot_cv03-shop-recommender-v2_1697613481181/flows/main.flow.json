@@ -171,6 +171,19 @@
       "next": [
         {
           "condition": "true",
+          "node": "testNode"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null,
+      "type": "standard"
+    },
+    {
+      "id": "360cde4482",
+      "name": "testNode",
+      "next": [
+        {
+          "condition": "true",
           "node": ""
         }
       ],
