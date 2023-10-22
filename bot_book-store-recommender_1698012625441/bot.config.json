@@ -2,11 +2,19 @@
   "locked": false,
   "disabled": false,
   "private": false,
-  "details": {},
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "",
+    "coverPictureUrl": ""
+  },
   "$schema": "../../bot.config.schema.json",
   "description": "",
   "active": true,
-  "version": "12.28.1",
+  "version": "12.31.0",
   "author": "Botpress, Inc.",
   "license": "AGPL-3.0",
   "imports": {
@@ -37,13 +45,13 @@
   "languages": [
     "en"
   ],
-  "id": "cv03-shop-recommender-v2",
-  "name": "Shop Recommender (cv03-shop-recommender-v2)",
+  "id": "book-store-recommender",
+  "name": "Book Store Recommender ",
   "pipeline_status": {
     "current_stage": {
       "id": "prod",
-      "promoted_on": "2023-10-17T13:05:55.019Z",
-      "promoted_by": "system"
+      "promoted_on": "2023-10-22T21:47:50.036Z",
+      "promoted_by": "felt00@vse.cz"
     }
   }
 }

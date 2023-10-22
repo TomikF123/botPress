@@ -1,0 +1,37 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "entry",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "entry",
+      "next": [
+        {
+          "condition": "true",
+          "node": "node-3bb2"
+        }
+      ],
+      "onEnter": [],
+      "onReceive": null
+    },
+    {
+      "id": "f8db843749",
+      "name": "node-3bb2",
+      "next": [
+        {
+          "condition": "true",
+          "node": ""
+        }
+      ],
+      "onEnter": [
+        "say #!builtin_text-RZAWYr"
+      ],
+      "onReceive": null,
+      "type": "standard"
+    }
+  ]
+}
